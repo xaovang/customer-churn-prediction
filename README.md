@@ -26,3 +26,6 @@ Files
 How to Run
 - pip install pandas scikit-learn matplotlib seaborn
 - python churn_project.py
+
+Jupyter Notebook:
+churn_prediction_notebook.ipynb
