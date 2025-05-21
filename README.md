@@ -28,4 +28,4 @@ How to Run
 - python churn_project.py
 
 Jupyter Notebook:
-churn_prediction_notebook.ipynb
+- churn_prediction_notebook.ipynb
